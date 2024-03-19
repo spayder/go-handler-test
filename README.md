@@ -1,4 +1,4 @@
-# An example how to test http handler in Go
+# An example how to test http handlers in Go
 
 ## Two approaches
 1. with new server
